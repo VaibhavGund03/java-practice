@@ -18,3 +18,16 @@ return statement;
 }
 
  */
+
+
+ //syntax  with parameter
+
+ /* syntax :-
+
+ returnType(type param1,typeparam2){
+ // body 
+ return statement;
+ 
+ }
+
+*/
