@@ -1,4 +1,4 @@
-// Function //  method
+// FUNCTION //  METHOD
 
 //function is block of code in java that perform a perticular task or work.
 /*
@@ -20,7 +20,7 @@ return statement;
  */
 
 
- //syntax  with parameter
+ //SYNTAX WITH PARAMNETER
 
  /* syntax :-
 
@@ -31,3 +31,7 @@ return statement;
  }
 
 */
+//CALL BY VALUE
+/*
+ java always contain by call by value.
+ */

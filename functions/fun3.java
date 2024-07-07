@@ -1,9 +1,10 @@
- // by using paramneter
- 
+// by using paramneter
+
 import java.util.Scanner;
 
 public class fun3 {
-    public static int ReturnSub(int g,int f) {
+    public static int ReturnSub(int g,int f) // parameter and formal parameter or normal parameter , use to define time 
+     {
         int sub = g-f;
        return sub;
     } 
@@ -13,7 +14,8 @@ public class fun3 {
         int f =sc.nextInt();
         int g = sc.nextInt();
 
-       int subtra = ReturnSub(f,g);
+       int subtra = ReturnSub(f,g);  // arguments or actual paramneters ,use for call time
+
        System.out.println("sub is :- "+subtra);
     }
 }
