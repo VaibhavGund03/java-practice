@@ -1,0 +1,20 @@
+// Function //  method
+
+//function is block of code in java that perform a perticular task or work.
+/*
+ ---- function is a reusable part of code
+
+ */
+/*
+ 
+syntax :--
+
+returnType(){
+
+body
+
+return statement;
+
+}
+
+ */
