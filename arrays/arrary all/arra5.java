@@ -15,7 +15,7 @@ public class arra5 {
         update(marks,nonChangable);
     System.out.println("nonChangamble "+nonChangable);
         // print marks
-    for(int i =0; i<marks.length;i++){
+    `for(int i =0; i<marks.length;i++){
         System.out.println(marks[i]+" ");
 
     }
