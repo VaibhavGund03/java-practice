@@ -112,6 +112,16 @@ System.out.println(list.contains(10));
 System.out.println(list2.contains("ram")); // it check the element are present in array list or not . answer is yes it give true and answer is not it gives false.
 
     
+// size of AL array list
+
+System.out.println(list.size()+"\n"); // print the size of array
+
+// print the array list by using ..size
+for(int i=0 ; i<list.size();i++){
+    System.out.println(list.get(i));
+}
+
+
      }
 
 

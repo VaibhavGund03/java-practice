@@ -10,6 +10,7 @@ public class arra6 {
     public static int linearSearch(int numbers[] , int key ){
         for(int i =0;i<numbers.length;i++){
             if(numbers[i]==key){
+                
                 return i;
             }
         }
