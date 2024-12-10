@@ -81,6 +81,7 @@ list2.get(0);
 System.out.println(list2+"\n");
 
 System.out.println("GET OPERATER END");
+
 // REMOVE ELEMENT /delete 
 
 
@@ -89,7 +90,7 @@ list2.remove(0);
 
 System.out.println(list+"\n");
 System.out.println(list2+"\n");
- 
+System.out.println();
 System.out.println("REMOVE OPERATOR END");
 
 // SET ELEMENT  at index
