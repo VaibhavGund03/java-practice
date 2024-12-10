@@ -1,3 +1,4 @@
+
 //---- array list is a inbult data structure in java.
 
 // linear structure.
