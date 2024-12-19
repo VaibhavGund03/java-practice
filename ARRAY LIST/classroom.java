@@ -18,7 +18,7 @@
 import java.util.ArrayList;  // only sue for array list.
 
 // import java.util.*;  // acess all type class 
-
+//
 public class classroom{
     public static void main (String[]args){
      // arraylist <datatype> arraylist name
